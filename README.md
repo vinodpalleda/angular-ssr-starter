@@ -1,6 +1,6 @@
 # Demo SSR
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.5.6.985
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.5.6.98588
 
 ## Development server
 
